@@ -34,13 +34,13 @@ AI trade bot
    git clone https://github.com/charudatta10/ai-trade.git
 ```
 
-1. Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd ai-trade
 ```
 
-1. Run the project:
+3. Run the project:
 
 ```bash
 invoke
