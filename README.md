@@ -12,7 +12,7 @@
 ![project](https://flat.badgen.net///static/project/ai-trade)
 
 <!-- Badges: Tools used -->
-`python` `News API` `textblob` `dotenv` `yfinance` `ollama` `sklearn` `fastapi` 
+`python` `News API` `textblob` `dotenv` `yfinance` `ollama` `sklearn` `fastapi`
 
 ## Documentation
 
@@ -20,11 +20,10 @@ AI trade bot
 
 ## Features
 
-- Sentiment analysis 
-- Web scrapper 
-- Inference 
-- AI analysis 
-
+- Sentiment analysis
+- Web scrapper
+- Inference
+- AI analysis
 
 ## Getting Started
 
