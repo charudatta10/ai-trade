@@ -1,5 +1,7 @@
 # ai-trade
 
+![Version](https://img.shields.io/github/v/release/charudatta10/ai-trade)
+
 <!-- Badges: Project Status GitHub -->
 ![license](https://flat.badgen.net/static/license/GPL-3.0/blue)
 ![release](https://flat.badgen.net/github/release/charudatta10/ai-trade)
@@ -14,9 +16,9 @@
 <!-- Badges: Tools used -->
 `python` `News API` `textblob` `dotenv` `yfinance` `ollama` `sklearn` `fastapi`
 
-## Documentation
+## What is this?
 
-AI trade bot  
+ai-trade is an AI-powered trading assistant that combines market data with news sentiment analysis. It uses yfinance for market data, textblob for sentiment on scraped news, and an Ollama-backed LLM for inference, with sklearn for modeling. A FastAPI interface exposes the analysis to clients.  
 
 ## Features
 
